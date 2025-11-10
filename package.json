@@ -1,0 +1,1 @@
+{"license":"MIT","author":"Your Name","name":"orkes-conductor-hello-world","description":"A simple Node.js project demonstrating Orkes Conductor Hello World workflow","main":"index.js","scripts":{"start":"node index.js"},"version":"1.0.0","dependencies":{"@io-orkes/conductor-javascript":"^1.0.0"}}
