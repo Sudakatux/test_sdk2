@@ -1,0 +1,1 @@
+{"devDependencies":{"@types/node":"^18.11.0","typescript":"^5.0.0"},"name":"hello-world-worker-ts","description":"Hello World Worker for Orkes Conductor JavaScript SDK","main":"dist/worker.js","scripts":{"build":"tsc","start":"node dist/worker.js"},"version":"1.0.0","dependencies":{"@orkes/conductor-javascript-sdk":"^2.2.1"}}
