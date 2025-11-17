@@ -1,0 +1,1 @@
+{"include":["src"],"compilerOptions":{"skipLibCheck":true,"forceConsistentCasingInFileNames":true,"module":"commonjs","rootDir":"./","strict":true,"target":"ES6","esModuleInterop":true,"outDir":"./dist"}}
